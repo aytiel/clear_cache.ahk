@@ -11,5 +11,3 @@ clearCache:
   else
     ExitApp
 return
-
-;http://hastebin.com/uminiyojos.mel
